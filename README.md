@@ -7,3 +7,5 @@
 # Esta Linha foi inserida dentro deste arquivo atuando na Branch dev
 
 # Vou comitar dentro desta branch.
+
+# Nova LINHA
